@@ -436,13 +436,17 @@ input#rstudio_command_palette_search {
 }
 
 .terminal {
-  background-color: #3B3228;
   color: #f5eeeb;
   font-feature-settings: "liga" 0;
   position: relative;
   user-select: none;
   -ms-user-select: none;
   -webkit-user-select: none;
+}
+
+/*terminal background*/
+.xterm-viewport {
+ background: url(https://raw.githubusercontent.com/cobriant/vaporwave.rstheme/main/itl.cat_vaporwave-wallpaper_23652.png) !important;
 }
 
 .terminal.xterm-cursor-style-block.focus:not(.xterm-cursor-blink-on) .terminal-cursor {
@@ -513,6 +517,7 @@ input#rstudio_command_palette_search {
 /* borders */
 .gwt-TabLayoutPanelContentContainer {
   border: solid 1px rgb(244,38,167) !important;
+  
 }
 
 /* borders */
