@@ -2,7 +2,7 @@
 
 Rewind back in time with the funk of [k-mart mix tapes](https://archive.org/details/KmartOctober1989). This macintosh plus inspired theme will put the elevator jazz back in your step.
 
-<img src="Screen Shot.png" width="400"/>
+<img src="Screen Shot.png" width="800"/>
 
 ## Use the theme!
 
