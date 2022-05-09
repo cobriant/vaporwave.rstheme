@@ -14,6 +14,8 @@ rstudioapi::removeTheme("vaporwave")
 
 ## Try another!
 
+<img src="galaxy.png" width="800"/>
+
 rstudioapi::addTheme("https://raw.githubusercontent.com/cobriant/vaporwave.rstheme/main/galaxy.rstheme", apply = TRUE)
 
 rstudioapi::removeTheme("galaxy")

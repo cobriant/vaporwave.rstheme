@@ -107,7 +107,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 26%, rgba(52,26,49,1) 100%);
 
 .ace_keyword {
   font-style: normal;
-  color: #FF6B35;
+  color: #d9705f;
 }
 
 .ace_keyword.ace_operator {
@@ -127,6 +127,11 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 26%, rgba(52,26,49,1) 100%);
 .ace_constant.ace_numeric {
   color: #f29333;
 }
+
+.numberCell {
+  color: #FFFFFF;
+}
+
 
 .ace_constant.ace_character {
   color: #f29333;
@@ -180,7 +185,7 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 26%, rgba(52,26,49,1) 100%);
 }
 
 .ace_comment {
-    background: -webkit-linear-gradient(#2a83c7, #0693ff);
+    background: -webkit-linear-gradient(#77cee6, #59dbff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -562,7 +567,7 @@ input#rstudio_command_palette_search {
 }
 
 .rstudio-themes-dark .ace_paren_color_6 {
-  color: #0200c7;
+  color: #8180ff;
 }
 
 .terminal {
